@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Loading-spinners"
+    }
+  },
+  "defaultProject": "Loading-spinners",
+  "cli": {
+    "analytics": "1cd66b53-2648-4796-a5a0-a0b6f77e4f18"
+  }
 }
